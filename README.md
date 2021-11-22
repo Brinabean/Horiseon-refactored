@@ -1,7 +1,6 @@
 # Horiseon Website Challenge 1: Refactoring Code and Adding Accessability 
 
 This code provides a website for a business called Horiseon that specializes in helping businesses grow their online presence. This code was created and needed refactored. The code needed to be adjusted to correct semantic HTML elements, give the CSS file a more logical structure, and increase accessibility. I built this project for practice in HTML and CSS and to learn how to spot and adjust code to make it more efficient. I learned it's easy to add too many classes and unneccessary lines in your code. Also, I learned to take my time and add more comments as I go instead of powering through the code until it was done. I feel my code is easy to read and easy to follow exactly what each section.
-You can see this website by using this link: file:///C:/Users/12345/Desktop/Bootcamp%20Challenges/02-Challenge/Develop/index.html
 
 
 ## Installation
