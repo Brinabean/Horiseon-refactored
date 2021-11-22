@@ -153,6 +153,8 @@ p {
     background-color: #2589bd;
 }
 
+/*changed all 3 classes to one class since all were same to cut down on code lines*/
+
 .benefit-info {
     margin-bottom: 32px;
     color: #ffffff;
@@ -168,6 +170,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*END BENEFITS SECTION*/
 
 /*Begin Footer*/
 footer {
